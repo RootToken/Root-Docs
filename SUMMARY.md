@@ -31,4 +31,5 @@
 * [Contracts](resources/contracts.md)
 * [Audits](resources/audits.md)
 * [Bug Bounty](resources/bug-bounty.md)
+* [Media Kit](resources/media-kit.md)
 * [Links](resources/links.md)
