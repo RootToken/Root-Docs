@@ -9,6 +9,6 @@ In order to be considered for the maximum potential reward, bug reports must com
 Bug reports that do not come with a PoC and code implementing a fix may qualify for a maximum of up to 30% of the potential reward outlined below, as determined by the Beanstalk Immunefi Committee (BIC). You can read more about the BIC here:
 
 * [BIC Process](https://docs.bean.money/almanac/governance/beanstalk/bic-process)
-* [BIC Dashboard](https://docs.bean.money/almanac/governance/beanstalk/bic-dashboard)
+* [BICM Dashboard](https://docs.bean.money/almanac/governance/beanstalk/bicm-dashboard)
 
-All vulnerabilities noted in [any Halborn audit reports or the Trail of Bits audit report](https://github.com/BeanstalkFarms/Beanstalk-Audits) (or otherwise known by the BIC or [Beanstalk Community Multisig](https://docs.bean.money/almanac/governance/beanstalk/bcm-dashboard)) are not eligible for a reward.
+All vulnerabilities noted in [any audit report in the Beanstalk Audits repository](https://github.com/BeanstalkFarms/Beanstalk-Audits) (or otherwise known by the BIC, [Beanstalk Community Multisig](https://docs.bean.money/almanac/governance/beanstalk/bcm-dashboard), or [Root DAO Multisig](../governance/root-token/rdm-dashboard.md)) are not eligible for a reward.
