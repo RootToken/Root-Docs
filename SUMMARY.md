@@ -27,7 +27,7 @@
 
 ## 📖 Resources
 
-* [Discord](https://discord.gg/rootmarkets)
+* [Discord](https://discord.gg/Ag5uwc2y68)
 * [Contracts](resources/contracts.md)
 * [Audits](resources/audits.md)
 * [Bug Bounty](resources/bug-bounty.md)
