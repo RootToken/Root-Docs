@@ -81,10 +81,10 @@ RIPs may have multiple transactions if made explicit in the written proposal.&#x
 The following are the processes in place for a Root Holder to propose a RIP:
 
 * Submit a pull request on the public Root GitHub repo with a written proposal of the changes that would be implemented in the RIP.
-* Tag the **@RDM Liaison** user in the **(#🌳・canopy)** channel in the Root Discord to create a dedicated discussion channel for the RIP.
+* DM the **root.dao.operations** user on Discord to create a dedicated discussion channel for the RIP.
 * Share a link to the GitHub PR and the written proposal in the newly created dedicated discussion channel.
 * Allow sufficient time for discussion of the proposal. What constitutes sufficient is at the sole discretion of the RDM, but the RDM must formally propose the RIP within 2 weeks of the creation of the dedicated discussion channel, unless the proposer decides to withdraw their proposal.
-* Tag the **@RDM Liaison** user to request that the BIP be formally proposed.
+* DM the **root.dao.operations** user to request that the RIP be formally proposed.
 * Before the RDM formally proposes the RIP, they shall verify that the written proposal contains all the necessary content per [#rip-proposal-content](rdm-process.md#rip-proposal-content "mention").
 * The RDM shall then formally propose the RIP by submitting the on-chain transaction and Snapshot proposal.
 * During the Voting Period (1-7 days), every RDM Signer shall verify the transaction per [#verifying-and-signing-transactions](rdm-process.md#verifying-and-signing-transactions "mention"). If not all Signers verify the transaction, the RDM may still continue per the process outlined in [#rotating-signers](rdm-process.md#rotating-signers "mention").
@@ -129,10 +129,10 @@ RSPs consist of a pull request on the Root GitHub repo that includes the followi
 The following are the processes in place for a Root Holder to propose a RSP that does not correspond to a BIP:
 
 * Submit a pull request on the public Root GitHub repo with a written proposal per [#rsp-proposal-content](rdm-process.md#rsp-proposal-content "mention").
-* Tag the **@RDM Liaison** user in the **(#🌳・canopy)** channel in the Root Discord to create a dedicated discussion channel for the RSP.
+* DM the **root.dao.operations** user on Discord to create a dedicated discussion channel for the RSP.
 * Share a link to the GitHub PR and the written proposal in the newly created dedicated discussion channel.
 * Allow sufficient time for discussion of the proposal. What constitutes sufficient is at the sole discretion of the RDM, but the RDM must formally propose the RSP within 2 weeks of the creation of the dedicated discussion channel, unless the proposer decides to withdraw their proposal.
-* Tag the **@RDM Liaison** user to request that the RSP be formally proposed.
+* DM the **root.dao.operations** user on Discord to request that the RSP be formally proposed.
 * Before the RDM formally proposes the RSP, they shall verify that the written proposal contains all the necessary content per [#rsp-proposal-content](rdm-process.md#rsp-proposal-content "mention").
 * The RDM shall then formally propose the RSP by submitting the on-chain transaction (if applicable) and Snapshot proposal.
 * During the Voting Period, every RDM Signer shall verify the transaction per [#verifying-and-signing-transactions](rdm-process.md#verifying-and-signing-transactions "mention"). If not all Signers verify the transaction, the RDM may still continue per the process outlined in [#rotating-signers](rdm-process.md#rotating-signers "mention").
@@ -224,7 +224,7 @@ Depending on the severity of a given emergency, RDM members shall swiftly decide
 
 In cases where an immediate upgrade is necessary to protect Root, RDM Signers are not required to sign a verified Etherscan message as outlined in [#verifying-and-signing-transactions](rdm-process.md#verifying-and-signing-transactions "mention").
 
-After emergency action is taken, the RDM shall swiftly issue a summarized report to the community via the Beanstalk Discord detailing:
+After emergency action is taken, the RDM shall swiftly issue a summarized report to the community via the Root Discord detailing:
 
 1. The administrative permissions that were used;
 2. The context and severity of the issue; and
